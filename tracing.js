@@ -1,3 +1,5 @@
+// Random text to update the file
+
 const { OTLPTraceExporter } = require('@opentelemetry/exporter-trace-otlp-http');
 
 const { resourceFromAttributes } = require('@opentelemetry/resources');
